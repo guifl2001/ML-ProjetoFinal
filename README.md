@@ -1,6 +1,11 @@
 # ML-ProjetoFinal
 Final project - Machine Learning at INSPER
 
+# Alunos:
+- Guilherme Fontana Louro
+- Pedro Altobelli Teixeira Pinto
+
+
 ## Como rodar o projeto
 
 ### Instalar dependências
